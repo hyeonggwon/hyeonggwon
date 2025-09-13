@@ -26,4 +26,4 @@
            /></div> 
     </div>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonk123)](https://solved.ac/kwonk123)
