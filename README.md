@@ -23,13 +23,7 @@
 
 ## 🏅 Stats
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=hyeonggwon&bg_color=180,000000,00000000&title_color=fefcdd&text_color=fefcdd" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonggwon&layout=compact&bg_color=180,000000,00000000&title_color=fefcdd&text_color=fefcdd" /></td>
-      <td><a href="https://solved.ac/kwonk123">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonk123" alt="Solved.ac프로필"/>
-      </a></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeonggwon&bg_color=180,000000,00000000&title_color=fefcdd&text_color=fefcdd" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonggwon&layout=compact&bg_color=180,000000,00000000&title_color=fefcdd&text_color=fefcdd" />
+  <a href="https://solved.ac/kwonk123"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonk123" alt="Solved.ac프로필"/></a>
 </div>
