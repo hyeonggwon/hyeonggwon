@@ -23,7 +23,7 @@
 
 ## 🏅 Stats
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
+  <table border="0">
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=hyeonggwon&bg_color=180,000000,00000000&title_color=fefcdd&text_color=fefcdd" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonggwon&layout=compact&bg_color=180,000000,00000000&title_color=fefcdd&text_color=fefcdd" /></td>
