@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=929292&height=120&text=Hyeonggwon&animation=&fontColor=ebebeb&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=f5ec00&height=120&text=Hyeonggwon&animation=&fontColor=ebebeb&fontSize=40" />
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -21,9 +21,8 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">  
-        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonggwon)](https://github.com/hyeonggwon/github-readme-stats)
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonggwon&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hyeonggwon&bg_color=180,000000,00000000&title_color=fff76b&text_color=fff76b"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonggwon&layout=compact&bg_color=180,000000,00000000&title_color=fff76b&text_color=fff76b"
+           /> </div> 
     </div>
     
