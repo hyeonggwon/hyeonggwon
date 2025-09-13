@@ -25,6 +25,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hyeonggwon&bg_color=180,000000,00000000&title_color=fefcdd&text_color=fefcdd" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonggwon&layout=compact&bg_color=180,000000,00000000&title_color=fefcdd&text_color=fefcdd" />
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonk123)](https://solved.ac/kwonk123)
 </p>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonk123)](https://solved.ac/kwonk123)
