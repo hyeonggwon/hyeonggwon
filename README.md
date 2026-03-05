@@ -26,8 +26,8 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td><a href="https://solved.ac/kwonk123"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonk123" alt="Solved.ac프로필"/></a></td>
-      <td><img src="https://github-readme-stats-dun-three-58.vercel.app/api/top-langs?username=hyeonggwon&layout=compact&show_icons=true&theme=synthwave" alt="Top Langs" /></td>
-      <td><img src="https://github-readme-stats-dun-three-58.vercel.app/api?username=hyeonggwon&&theme=synthwave" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats-dun-three-58.vercel.app/api/top-langs?username=hyeonggwon&layout=compact&show_icons=true&theme=gruvbox" alt="Top Langs" /></td>
+      <td><img src="https://github-readme-stats-dun-three-58.vercel.app/api?username=hyeonggwon&&theme=gruvbox" alt="GitHub Stats" /></td>
     </tr>
   </table>
 </div>
