@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&text=Hyeonggwon&animation=&fontColor=87CEEB&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&text=Hyeonggwon&animation=&fontColor=111111&fontSize=40" />
 </div>
 
 ## 🛠️ Tech Stacks
